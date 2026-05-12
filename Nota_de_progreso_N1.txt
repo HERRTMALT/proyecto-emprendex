@@ -1,0 +1,49 @@
+nota 1 del desarrollo del proyecto EMPRENDEX
+------------------------------------------------
+1- archivos y carpetas.
+hasta ahora he creado 6 carpetas que contienen 3 archivos
+-un documento html
+-una hoja de estilos css
+-un script js
+
+en la carpeta de register-in:
+se puede decir que su interfas de usuario esta practicamente
+lista. solo faltaria agregar un elemento que permita 
+retroceder al selecccionar las opciones de inicio de sesion
+y cambiar contraseña. aunque esto es mas para la experiencia 
+de usuario, no para la funcionalidad.
+
+en la carpeta de log-in:
+podemos decir que el diseño esta 100% terminado, claro se 
+puede agregar l boton de reversa pero no hace falta.
+
+en la carpeta de forgot password:
+falta un boton de "ENVIAR CODIGO DE VERIFICACION  POR EMAIL".
+
+en la carpeta EMPRENDEX HOME:
+la estructura base del ecommerce se podria decir que 
+alcanzo el grado funcional.
+todavia faltan muchos items y funcionalidadeds, como por ej:
+-item CATEGORIAS muestre una lista de opciones al hacer click
+ sobre el.
+-desarrollar el html de CUPONES, OFERTAS y CARRITO
+-agregar el item DIRECCION y su html
+-html PROFILE
+-html SETTINGS
+-html SUPORT
+-agregar pestalla desplegable al precionar item CERRAR SESION
+-dejar en STICKY el second navbar
+-agregar item MIS COMPRAS
+-agregar footer.
+
+en cuanto las demas carpetas, todavia no hay desarrollo
+
+fron-end: 50% HTML: 50% CSS: 40% JS: 0%
+back-end: 0% NODE.JS: 0% PYTHON: 0%
+data-base: 0% mongoDB: 0% SQL: 0%
+hosting: none
+
+
+
+
+
