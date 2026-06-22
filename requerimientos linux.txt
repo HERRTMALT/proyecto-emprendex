@@ -1,0 +1,53 @@
+cosas que quiero y necesito si quiero instalar linux personalizado de hiperrendimiento
+
+-obligatorio
+
+navegador zen browser - firefox
+vs code
+node.js
+bluetooth
+bloc de notas
+word
+excel
+power point
+terminal
+manejo de pestañas por mosaicos
+administrador de tareas
+driver de nvidia - amd
+fondo de pantalla
+barra de tareas
+boton de inicio
+whatsapp
+mysql
+sqlite3
+python 3
+obs studio
+git
+cursor
+ollama
+claude - chat gpt nativo en consola
+xampp
+sistma de antivirus
+reloj de tiempo
+driver de internet y ethernet
+configuracion de sonido
+lenguaje de teclado en español o ingles
+solo un modo oscuro de escritorio
+ia
+lector pdf
+
+- negociable
+
+chrome
+calculadora
+acces
+discord
+juegos
+otros tipos de letra no por defecto del sistema
+trasnparencia
+camara
+editores de fotos y videos
+tomadores de capturas y recortes
+explorador de fotos , audios y videos
+copia de seguridad en la nube de archivos como onedrive o drive
+visor 3d

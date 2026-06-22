@@ -27,6 +27,9 @@ body {
    color: #ad5de8;
     font-size: 60px;
 }
+/*----------------------
+    form styles
+----------------------*/
 .form_container {
     width: 50%;
     height: auto;
@@ -100,6 +103,9 @@ form {
     color: #fff;
     text-decoration: none;
 }
+/*----------------------
+    media querys
+----------------------*/
 @media (max-width: 768px) {
     .form_container {
         width: 80%;
@@ -130,7 +136,10 @@ form {
     .link_login {
         margin-left: 5dvw;
     }
-}/*end responsive styles*/
+}
+/*--------------------------
+    valid - invalid styles
+--------------------------*/
 .valid_register_style {
     animation: valid_register_animation 0.5s ease forwards;
 }
